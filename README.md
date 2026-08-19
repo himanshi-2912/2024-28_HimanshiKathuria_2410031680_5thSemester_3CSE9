@@ -40,3 +40,5 @@ Task 4: Data Munging
 * Language: Java 17+, SQL, Python 3
 * Version Control: Git & GitHub
 * Architecture Tools: UML, PlantUML
+
+certification link - https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6a81af4d6dfcb5ce71181a22_1786898749650_completion_certificate.pdf
